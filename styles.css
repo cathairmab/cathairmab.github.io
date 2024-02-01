@@ -125,7 +125,6 @@ a:hover, a:active { text-decoration: none; color: #00754a }
 }
 
 .timeline {
-    max-width: 750px;
     padding: 50px 50px 200px 5px;
     display: grid;
     grid-template-columns: 1fr 3px 1fr;
